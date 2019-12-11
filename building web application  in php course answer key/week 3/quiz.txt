@@ -1,5 +1,5 @@
 Q1.Which of the following is not a way to include CSS in an HTML page?
-ANS.Directly on an HTML tag using the style= attribute
+ANS.Using the <font> tag to enclose the other tags.
 
 Q2.Which HTML tag does nothing to the text it surrounds and has as its
 sole purpose to create a "handle" so as to be able to apply CSS to the text?
